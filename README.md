@@ -8,7 +8,4 @@ Cool & useful PIML Links
 https://databookuw.com/
 Physics Informed Machine Learning by Steve Brunton - https://youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&si=i7xUSSh1YAb1kw2W
 
-Disclaimer
-This repository is intended for knowledge sharing only.
-
 Happy learning!
